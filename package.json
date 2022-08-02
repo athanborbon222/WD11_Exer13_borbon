@@ -1,0 +1,14 @@
+{
+  "name": "wd11_exercise13_borbon",
+  "version": "1.0.0",
+  "description": "1st javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
